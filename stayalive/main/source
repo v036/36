@@ -126,7 +126,7 @@ local function initLogic(char)
 			if not handle then return end
 			
 			for _, player in pairs(Players:GetChildren()) do
-				if player == client then goto continue end
+				if player == client then continue end
 
 				local pChar = player.Character
 				if not pChar then continue end
@@ -149,7 +149,6 @@ local function initLogic(char)
 						end
 					end
 				end
-                                ::continue::
 			end
 		end
 	end))
