@@ -1,1 +1,1 @@
-local active = true
+true
