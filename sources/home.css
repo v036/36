@@ -1,23 +1,43 @@
 .background {
-    background-image: url(https://www.0036.ml/sources/bg.svg);
+    background-image: url(bg.svg);
     height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
+}
+
+.bg-section {
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    /* height: 100%; */
+}
+
+.bg-overlay:before {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
 }
 
 body, html {
     height: 100%;
+    width: 100%;
 }
 
-.gray-tint {
-    background-color: rgba(0, 0, 0, 0.7);
-    background-blend-mode: overlay;
-}
-
-.background-gray {
-    background-color: rgb(15, 15, 15);
-    background-blend-mode: overlay;
+.gray-tint:before {
+    background-color: #222222;
+    opacity: 0.9;
 }
 
 .preview {
