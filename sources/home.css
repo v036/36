@@ -1,0 +1,21 @@
+.background {
+    background-image: url(bg.svg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body, html {
+    height: 100%;
+}
+
+.gray-tint {
+    background-color: rgba(0, 0, 0, 0.616);
+    background-blend-mode: overlay;
+}
+
+.background-gray {
+    background-color: rgb(15, 15, 15);
+    background-blend-mode: overlay;
+}
