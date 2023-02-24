@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Animals",
+        "data": [
+            "alligator",
+            "bat",
+            "cheetah",
+            "dolphin",
+            "elephant",
+            "flamingo",
+            "giraffe",
+            "hippopotamus",
+            "jaguar",
+            "koala",
+            "moose",
+            "whale",
+            "otter",
+            "penguin",
+            "rhino",
+            "squirrel",
+            "toucan",
+            "zebra"
+        ]
+    },
+    {
+        "name": "Sports",
+        "data": [
+            "football",
+            "basketball",
+            "volleyball",
+            "tennis",
+            "swimming",
+            "boxing",
+            "golf",
+            "hockey",
+            "soccer",
+            "baseball"
+        ]
+    },
+    {
+        "name": "Countries",
+        "data": [
+            "Argentina",
+            "Brazil",
+            "Canada",
+            "Denmark",
+            "Egypt",
+            "France",
+            "Greece",
+            "Hungary",
+            "India",
+            "Japan",
+            "Kenya",
+            "Lebanon",
+            "Mexico",
+            "Norway",
+            "Poland",
+            "Qatar",
+            "Russia",
+            "Spain",
+            "Thailand",
+            "Uruguay"
+        ]
+    },
+    {
+        "name": "Food",
+        "data": [
+            "baguette",
+            "chicken",
+            "croissant",
+            "doughnut",
+            "hamburger",
+            "macaroni",
+            "mushroom",
+            "noodles",
+            "omelette",
+            "pizza",
+            "ravioli",
+            "salsa",
+            "spaghetti",
+            "waffle"
+        ]
+    },
+    {
+        "name": "Colors",
+        "data": [
+            "black",
+            "blue",
+            "brown",
+            "green",
+            "grey",
+            "orange",
+            "pink",
+            "purple",
+            "red",
+            "white",
+            "yellow"
+        ]
+    },
+    {
+        "name": "Jobs",
+        "data": [
+            "accountant",
+            "chef",
+            "doctor",
+            "electrician",
+            "firefighter",
+            "hairdresser",
+            "journalist",
+            "lawyer",
+            "nurse",
+            "pilot",
+            "plumber",
+            "programmer",
+            "teacher",
+            "waiter",
+            "writer"
+        ]
+    },
+    {
+        "name": "Planets",
+        "data": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune",
+            "Pluto"
+        ]
+    },
+    {
+        "name": "Shapes",
+        "data": [
+            "circle",
+            "square",
+            "triangle",
+            "rectangle",
+            "hexagon",
+            "pentagon",
+            "octagon",
+            "diamond",
+            "star",
+            "heart",
+            "oval",
+            "spiral",
+            "cube"
+        ]
+    },
+    {
+        "name": "Famous Cities",
+        "data": [
+            "Paris",
+            "New York",
+            "Tokyo",
+            "London",
+            "Rome",
+            "Sydney",
+            "Los Angeles",
+            "Barcelona",
+            "Istanbul",
+            "Hong Kong",
+            "Dubai",
+            "Rio de Janeiro",
+            "Amsterdam",
+            "Moscow",
+            "Beijing",
+            "Mumbai",
+            "Singapore",
+            "Toronto",
+            "Berlin",
+            "Bangkok",
+            "Cairo",
+            "Venice",
+            "Vienna",
+            "San Francisco",
+            "Chicago"
+        ]
+    }
+]
