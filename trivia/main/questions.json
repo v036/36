@@ -85,11 +85,6 @@
     "answer": "Yen"
   },
   {
-    "question": "What is the name of the largest desert in the world?",
-    "answers": ["Gobi Desert", "Kalahari Desert", "Sahara Desert", "Sonoran Desert"],
-    "answer": "Sahara Desert"
-  },
-  {
     "question": "What is the name of the largest organ in the human body?",
     "answers": ["Brain", "Heart", "Kidney", "Skin"],
     "answer": "Skin"
