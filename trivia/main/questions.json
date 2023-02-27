@@ -73,5 +73,45 @@
   "question": "What is the largest species of living reptile?",
   "answers": ["Alligator", "Crocodile", "Komodo dragon", "Tortoise"],
   "answer": "Crocodile"
+  },
+  {
+  "question": "What is the name of the currency used in Japan?",
+  "answers": ["Dollar", "Euro", "Pound", "Yen"],
+  "answer": "Yen"
+  },
+  {
+  "question": "What is the name of the largest desert in the world?",
+  "answers": ["Gobi Desert", "Kalahari Desert", "Sahara Desert", "Sonoran Desert"],
+  "answer": "Sahara Desert"
+  },
+  {
+  "question": "What is the name of the largest organ in the human body?",
+  "answers": ["Brain", "Heart", "Kidney", "Skin"],
+  "answer": "Skin"
+  },
+  {
+  "question": "What is the name of the famous playwright who wrote 'Romeo and Juliet'?",
+  "answers": ["Arthur Miller", "George Bernard Shaw", "William Shakespeare", "Tennessee Williams"],
+  "answer": "William Shakespeare"
+  },
+  {
+  "question": "What is the chemical symbol for oxygen?",
+  "answers": ["N", "O", "P", "S"],
+  "answer": "O"
+  },
+  {
+  "question": "What is the name of the famous structure located in India that is considered one of the Seven Wonders of the World?",
+  "answers": ["Angkor Wat", "Great Wall of China", "Machu Picchu", "Taj Mahal"],
+  "answer": "Taj Mahal"
+  },
+  {
+  "question": "What is the name of the famous national park located in Wyoming, USA, known for its geysers and hot springs?",
+  "answers": ["Grand Canyon National Park", "Yellowstone National Park", "Yosemite National Park", "Zion National Park"],
+  "answer": "Yellowstone National Park"
+  },
+  {
+    "question": "What is the name of the world's highest mountain?",
+    "answers": ["Everest", "K2", "Makalu", "Nanga Parbat"],
+    "answer": "Everest"
   }
 ]
