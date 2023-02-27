@@ -1,0 +1,77 @@
+[
+  {
+  "question": "What is the name of the largest ocean on Earth?",
+  "answers": ["Atlantic Ocean", "Arctic Ocean", "Indian Ocean", "Pacific Ocean"],
+  "answer": "Pacific Ocean"
+  },
+  {
+  "question": "What is the chemical symbol for gold?",
+  "answers": ["Ag", "Au", "Cu", "Fe"],
+  "answer": "Au"
+  },
+  {
+  "question": "Who was the first person to step on the moon?",
+  "answers": ["Buzz Aldrin", "Neil Armstrong", "Michael Collins", "Yuri Gagarin"],
+  "answer": "Neil Armstrong"
+  },
+  {
+  "question": "What is the capital city of Spain?",
+  "answers": ["Barcelona", "Madrid", "Seville", "Valencia"],
+  "answer": "Madrid"
+  },
+  {
+  "question": "What is the largest planet in our solar system?",
+  "answers": ["Earth", "Jupiter", "Mars", "Venus"],
+  "answer": "Jupiter"
+  },
+  {
+  "question": "What is the name of the highest mountain in the world?",
+  "answers": ["Denali", "Everest", "Kilimanjaro", "Mauna Kea"],
+  "answer": "Everest"
+  },
+  {
+  "question": "Who was the first U.S. President?",
+  "answers": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+  "answer": "George Washington"
+  },
+  {
+  "question": "What is the largest country by land area?",
+  "answers": ["Canada", "China", "Russia", "United States"],
+  "answer": "Russia"
+  },
+  {
+  "question": "Who wrote the novel '1984'?",
+  "answers": ["Aldous Huxley", "George Orwell", "J.D. Salinger", "Ray Bradbury"],
+  "answer": "George Orwell"
+  },
+  {
+  "question": "What is the capital city of Japan?",
+  "answers": ["Kyoto", "Osaka", "Tokyo", "Yokohama"],
+  "answer": "Tokyo"
+  },
+  {
+  "question": "What is the smallest continent by land area?",
+  "answers": ["Africa", "Antarctica", "Australia", "Europe"],
+  "answer": "Australia"
+  },
+  {
+  "question": "Who painted the famous artwork 'The Mona Lisa'?",
+  "answers": ["Claude Monet", "Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh"],
+  "answer": "Leonardo da Vinci"
+  },
+  {
+  "question": "What is the chemical symbol for carbon?",
+  "answers": ["C", "Co", "Cr", "Cu"],
+  "answer": "C"
+  },
+  {
+  "question": "Who is credited with inventing the telephone?",
+  "answers": ["Alexander Graham Bell", "Nikola Tesla", "Thomas Edison", "Wilbur Wright"],
+  "answer": "Alexander Graham Bell"
+  },
+  {
+  "question": "What is the largest species of living reptile?",
+  "answers": ["Alligator", "Crocodile", "Komodo dragon", "Tortoise"],
+  "answer": "Crocodile"
+  }
+]
