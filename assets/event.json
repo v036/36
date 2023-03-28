@@ -1,1 +1,5 @@
-{}
+{
+    "month": "4",
+    "date": "1",
+    "function": "local Sky = Instance.new(\"Sky\", game:GetService(\"Lighting\"));if not isfolder(\"36\") then makefolder(\"36\");end if not isfolder(\"36/assets\") then makefolder(\"36/assets\");end if not isfile(\"36/assets/obama_sky.png\") then writefile(\"36/assets/obama_sky.png\", game:HttpGet(\"https://raw.githubusercontent.com/v036/36/main/assets/obama_sky.png\"));end local getasset = getcustomasset or getsynasset;local assest = getasset(\"36/assets/obama_sky.png\");Sky.SkyboxBk = assest;Sky.SkyboxDn = assest;Sky.SkyboxFt = assest;Sky.SkyboxLf = assest;Sky.SkyboxRt = assest;Sky.SkyboxUp = assest;"
+}
